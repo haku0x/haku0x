@@ -7,7 +7,7 @@
 <h1 align="center">Hi there! :wave:</h1>
 
 <p align="center">
-  I'm **Haku0x**, a 16-year-old developer passionate about web and software development. I love exploring new technologies and building cool projects. :rocket:
+  I'm Haku0x, a 16-year-old developer passionate about web and software development. I love exploring new technologies and building cool projects. :rocket:
 </p>
 
 ---
