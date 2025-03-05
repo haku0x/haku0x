@@ -56,9 +56,9 @@
 
 ## :fire: What I'm Working On
 
-- :tools: **Learning new frameworks** (like Laravel, Vue.js, and React)
-- :rocket: **Building full-stack applications**
-- :brain: **Improving my problem-solving skills** through competitive programming
+-  **Learning new frameworks** (like Laravel, Vue.js, and React)
+-  **Building full-stack applications**
+-  **Improving my problem-solving skills** through competitive programming
 
 ---
 
