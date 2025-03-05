@@ -59,7 +59,6 @@
 - :tools: **Learning new frameworks** (like Laravel, Vue.js, and React)
 - :rocket: **Building full-stack applications**
 - :brain: **Improving my problem-solving skills** through competitive programming
-- :desktop: **Contributing to open-source projects** and learning best practices
 
 ---
 
