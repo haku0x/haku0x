@@ -65,7 +65,7 @@
 ## :mailbox: How to Reach Me
 
 Feel free to connect with me! :blush:  
-- **Email**: [haku0x@speednode.de](mailto:haku0x@speednode.de)
+- **Email**: [haku0x@hostnest.de](mailto:haku0x@hostnest.de)
 - **Discord**: [haku0x](https://discord.com/users/haku0x)
 
 
