@@ -65,7 +65,7 @@
 ## :mailbox: How to Reach Me
 
 Feel free to connect with me! :blush:  
-- **Discord**: [haku0x](https://discord.com/users/haku0x)
+- **Discord**: [haku0x_](https://discord.com/users/haku0x_)
 
 
 ---
