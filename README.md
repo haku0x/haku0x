@@ -59,6 +59,7 @@
 -  **Learning new frameworks** (like Laravel, Vue.js, and React)
 -  **Building full-stack applications**
 -  **Improving my problem-solving skills** through competitive programming
+-  **[Datalix Discord Bot](https://github.com/haku0x/Datalix-Discord-bot)** – A Discord bot for managing Datalix VPS servers via slash commands (start, stop, reboot, status, IP info, DDoS monitoring, backups)
 
 ---
 
