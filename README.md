@@ -46,6 +46,15 @@
 
 ---
 
+## :open_file_folder: My Public Repositories
+
+| Repository | Description | Language |
+|---|---|---|
+| [Datalix-Discord-bot](https://github.com/haku0x/Datalix-Discord-bot) | A Discord bot project | Python |
+| [haku0x](https://github.com/haku0x/haku0x) | My GitHub profile README | Markdown |
+
+---
+
 ## :bar_chart: GitHub Stats
 
 <p align="center">
