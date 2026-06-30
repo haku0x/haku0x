@@ -14,7 +14,7 @@
 
 ## :technologist: About Me
 
-- **Age**: 17 years old
+- **Age**: 18 years old
 - **Passions**: Web Development, Software Engineering, and Learning New Tech
 - **Current Focus**: Full-stack web development, improving problem-solving skills, and diving into new frameworks!
 
